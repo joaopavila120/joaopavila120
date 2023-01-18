@@ -4,7 +4,7 @@
 - 👨‍💻 I'm João Paulo, a web developer and a tech enthusiast.
 - 💪 I have worked on several types of projects, just like ecommerces, websites, management systems and apps.
 - 🔭 I'm currently work at [Atua Sistemas de Informação](https://www.atua.com.br/), with PHP, Postgres and Javascript.
-- 💡  In my free time I love to learn new technologies, I'm currently studying Javascript and PHP, languages I've been working on for three years.
+- 💡  In my free time I love to learn new technologies, I have never stopped studying Javascript and PHP, languages I've been working on for three years.
 - 📚 I am studying computer science at the University of Passo Fundo.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
