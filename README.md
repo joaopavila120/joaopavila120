@@ -8,7 +8,7 @@
 - 📚 I am studying computer science at the University of Passo Fundo.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-- Some at college, some at work.
+- Some at college, some at work and some in personal projects.
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
