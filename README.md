@@ -7,8 +7,6 @@
 - 💡  In my free time I love to learn new technologies, I'm currently studying Javascript and PHP, languages I've been working on for three years.
 - 📚 I am studying computer science at the University of Passo Fundo.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 # Keep in touch
 <p>
   <a href="mailto:joaopaulo1448@gmail.com">
