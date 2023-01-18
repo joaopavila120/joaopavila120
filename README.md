@@ -7,6 +7,13 @@
 - 💡  In my free time I love to learn new technologies, I'm currently studying Javascript and PHP, languages I've been working on for three years.
 - 📚 I am studying computer science at the University of Passo Fundo.
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="postgres" width="45" height="45"/>
+</p>
+
 # Keep in touch
 <p>
   <a href="mailto:joaopaulo1448@gmail.com">
