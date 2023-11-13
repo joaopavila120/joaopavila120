@@ -1,11 +1,11 @@
 ### print('Hello World <img src="https://raw.githubusercontent.com/andrius111/andrius111/master/wave.gif" width="30px">')
 
 # About
-- 👨‍💻 I'm João Paulo, a web developer and a tech enthusiast.
+- 👨‍💻 I'm João Paulo, I'm a brazilian web developer and a tech enthusiast.
 - 💪 I have worked on several types of projects, just like ecommerces, websites, management systems and apps.
-- 🔭 I current work at [Atua Sistemas de Informação](https://www.atua.com.br/), with PHP, Postgres and Javascript.
+- 🔭 I've been working for three years as full stack developer, daily using PHP, Postgres and Javascript.
 - 💡  In my free time I love to learn new technologies but I have never stopped studying Javascript and PHP, languages I've been working on for three years.
-- 📚 I am studying computer science at the University of Passo Fundo.
+- 📚 I am studying computer science in Maria Curie-Skłodowska University in a exchange program
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
