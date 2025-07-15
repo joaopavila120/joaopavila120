@@ -2,7 +2,7 @@
 
 # About
 - 👨‍💻 I'm João Paulo.
-- 🔭 I've been working for four years as full stack developer, daily using PHP, Postgres and Javascript.
+- 🔭 I've worked for four years as full stack developer, daily using PHP, Postgres and Javascript.
 - 📚 I am studied computer science in University of Passo Fundo and I did an academic exchange in Maria Curie-Skłodowska University in 2023-2024
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
