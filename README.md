@@ -1,4 +1,4 @@
-### Hey! <img src="https://raw.githubusercontent.com/andrius111/andrius111/master/wave.gif" width="30px">')
+### Hey! <img src="https://raw.githubusercontent.com/andrius111/andrius111/master/wave.gif" width="30px">
 
 # About
 - 👨‍💻 I'm João Paulo.
