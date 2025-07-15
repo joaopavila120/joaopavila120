@@ -1,7 +1,7 @@
 ### Hey! <img src="https://raw.githubusercontent.com/andrius111/andrius111/master/wave.gif" width="30px">
 
 # About
-- 👨‍💻 I'm João Paulo.
+- 👨‍💻 My name is João Paulo.
 - 🔭 I've worked for four years as full stack developer, daily using PHP, Postgres and Javascript.
 - 📚 I am studied computer science in University of Passo Fundo and I did an academic exchange in Maria Curie-Skłodowska University in 2023-2024
 
