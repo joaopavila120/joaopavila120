@@ -24,7 +24,7 @@ Currently, I am also deepening my expertise in **Data Science, Data Mining, SQL,
 
 ## Databases & Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,python,scikit-learn,tensorflow,pandas,keras,numpy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
 </p>
 
